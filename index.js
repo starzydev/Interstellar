@@ -12,7 +12,7 @@ import fetch from "node-fetch";
 // import { setupMasqr } from "./Masqr.js";
 import config from "./config.js";
 
-console.log(chalk.yellow("🚀 Starting server..."));
+console.log(chalk.yellow("🚀 Starting port server..."));
 
 const __dirname = process.cwd();
 const server = http.createServer();
@@ -24,7 +24,7 @@ const CACHE_TTL = 30 * 24 * 60 * 60 * 1000; // Cache for 30 Days
 
 if (config.challenge !== false) {
   console.log(
-    chalk.green("🔒 Password protection is enabled! Listing logins below"),
+    chalk.green("🔒 Password logins are below, including admin logins."),
   );
   // biome-ignore lint/complexity/noForEach:
   Object.entries(config.users).forEach(([username, password]) => {
