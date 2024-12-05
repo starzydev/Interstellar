@@ -1,5 +1,20 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <p> Hey, if you are reading this, you are a guest! Please input your username as Guest, and password as simply, "password"!<p>
+    <p>Interstellar is NOT unblockable, keep usage and spread SECRET!</p>
+    <p>Below is the rest of the original Readme file, thanks!</p>
+</div>
+ 
+
+
+
+
+
+
+
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
     <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
